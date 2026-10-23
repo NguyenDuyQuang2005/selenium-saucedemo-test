@@ -1,12 +1,9 @@
 # Báo Cáo Thực Hành: Kiểm Thử Tự Động Với Selenium
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Status](https://img.shields.io/badge/Test_Status-5%2F5_Passed-brightgreen?style=for-the-badge)
-![Website](https://img.shields.io/badge/Target-SauceDemo-blue?style=for-the-badge)
 
 ## 1. Thông Tin Chung
-- **Họ và tên:** Trần Tiến Đức
-- **Mã sinh viên:** 23010777
+- **Họ và tên:** Nguyễn Duy Quang
+- **Mã sinh viên:** 23010448
 - **Môn học:** Kiểm thử phần mềm
 - **Website kiểm thử:** [https://www.saucedemo.com/](https://www.saucedemo.com/)
 - **Công cụ sử dụng:** Selenium (Automation Testing)
